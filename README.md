@@ -10,3 +10,8 @@
 1. Open the notebook with the badge above.
 2. Put `train.csv` (and `unique_m.csv` if used) in `MyDrive/TcProject/`.
 3. Run all cells top → bottom.
+
+**Notes**
+- 81 engineered features + Tc (same as the article)
+- Stratified splits by Tc deciles; train-only scaling
+- MLP tuned with White Shark Optimizer (WSO); early stopping on val RMSE
