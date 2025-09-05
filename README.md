@@ -36,3 +36,7 @@ We compare against the article that uses **MARS** optimized by a meta-heuristic 
 
 **Reference:**  
 García-Nieto, P.J., García-Gonzalo, E., & Paredes-Sánchez, J.P. (2021). Prediction of the critical temperature of a superconductor by using the WOA/MARS, Ridge, Lasso and Elastic-net machine learning techniques. *Neural Computing and Applications*, 33, 17131–17145. https://doi.org/10.1007/s00521-021-06304-z
+
+
+## License
+Code: MIT — see [LICENSE](./LICENSE).
